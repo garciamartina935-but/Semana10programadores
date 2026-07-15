@@ -1,0 +1,3 @@
+Como administrador del sistema, quiero gestionar usuarios y moderar contenido, para mantener la plataforma segura y confiable.
+Como ciudadano, quiero recibir notificaciones sobre el estado de mi reporte, para saber si ya fue atendido o sigue en proceso.
+Como líder comunitario, quiero coordinar jornadas o actividades a partir de los reportes, para promover soluciones colectivas.
